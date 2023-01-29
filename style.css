@@ -1,0 +1,57 @@
+.head {
+    font-size: 10px;
+    margin: 2%;
+  }
+  body {
+    background-image: linear-gradient(to right, red , yellow);(
+      109.6deg,
+      rgb(75, 27, 220) 11.2%,
+      rgb(198, 187, 41) 91.1%
+    );
+  }
+  .form {
+    padding: 2%;
+  }
+  .form h1 {
+    text-align: center;
+  }
+  .btn {
+    text-align: center;
+  }
+  .btn button {
+    font-size: 20px;
+    margin: 2%;
+    background: rgba(27, 66, 208, 0.411);
+    border: 1px solid white;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 100;
+    cursor: pointer;
+    transform: 0.4s;
+    transition-duration: 300ms;
+  }
+  .btn button:hover {
+    background: white;
+    color: black;
+    border: 1px solid rgba(60, 0, 255, 0.267);
+  }
+  .form table {
+    padding: 4%;
+    background: rgba(35, 226, 10, 0.896);
+    font-size: 17px;
+  }
+  .form table input {
+    font-size: 17px;
+    transform: 0.4s;
+    transition-duration: 300ms;
+  }
+  .form table input:hover {
+    transform: scale(1.1);
+  }
+  .form table tr {
+    margin: 1%;
+  }
+  .para {
+    font-size: 20px;
+  }
